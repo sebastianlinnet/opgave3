@@ -35,8 +35,3 @@ const App = Vue.createApp({
 });
 
 App.mount('#app');
-
-function TestsFunction() {
-    var T = document.getElementById("showOnClick");
-    T.style.display = "block";
-}
